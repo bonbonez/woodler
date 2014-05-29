@@ -1,0 +1,4664 @@
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 02:27:10 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (17.5ms)
+Completed 200 OK in 568ms (Views: 546.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-25 02:27:11 +0400
+
+
+Started GET "/assets/index.css?body=1" for 127.0.0.1 at 2014-05-25 02:27:11 +0400
+
+
+Started GET "/assets/layout.css?body=1" for 127.0.0.1 at 2014-05-25 02:27:11 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 02:27:11 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 02:27:11 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 02:27:11 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 02:27:11 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 02:27:11 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 02:32:00 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 18ms (Views: 17.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-25 02:32:00 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 02:32:00 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 02:32:00 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 02:32:00 +0400
+
+
+Started GET "/assets/index.css?body=1" for 127.0.0.1 at 2014-05-25 02:32:00 +0400
+
+
+Started GET "/assets/layout.css?body=1" for 127.0.0.1 at 2014-05-25 02:32:00 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 02:32:00 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 02:32:00 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 02:32:00 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 02:32:58 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 17ms (Views: 16.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-25 02:32:58 +0400
+
+
+Started GET "/assets/layout.css?body=1" for 127.0.0.1 at 2014-05-25 02:32:58 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 02:32:58 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 02:32:58 +0400
+
+
+Started GET "/assets/index.css?body=1" for 127.0.0.1 at 2014-05-25 02:32:58 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 02:32:58 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 02:32:58 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 02:32:58 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 02:32:58 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 02:32:59 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-25 02:32:59 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 02:32:59 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 02:32:59 +0400
+
+
+Started GET "/assets/layout.css?body=1" for 127.0.0.1 at 2014-05-25 02:32:59 +0400
+
+
+Started GET "/assets/index.css?body=1" for 127.0.0.1 at 2014-05-25 02:32:59 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 02:32:59 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 02:32:59 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 02:32:59 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 02:32:59 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 02:35:26 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-25 02:35:26 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 02:35:26 +0400
+
+
+Started GET "/assets/index.css?body=1" for 127.0.0.1 at 2014-05-25 02:35:26 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 02:35:26 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 02:35:26 +0400
+
+
+Started GET "/assets/layout.css?body=1" for 127.0.0.1 at 2014-05-25 02:35:26 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 02:35:26 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 02:35:26 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 02:35:27 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-25 02:35:27 +0400
+
+
+Started GET "/assets/index.css?body=1" for 127.0.0.1 at 2014-05-25 02:35:27 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 02:35:27 +0400
+
+
+Started GET "/assets/layout.css?body=1" for 127.0.0.1 at 2014-05-25 02:35:27 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 02:35:27 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 02:35:27 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 02:35:28 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 02:35:28 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 02:35:28 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:01:52 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 82ms (Views: 52.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:01:52 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-25 12:01:52 +0400
+
+
+Started GET "/assets/layout.css?body=1" for 127.0.0.1 at 2014-05-25 12:01:52 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:01:53 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:01:53 +0400
+
+
+Started GET "/assets/index.css?body=1" for 127.0.0.1 at 2014-05-25 12:01:53 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:01:53 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:01:53 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:01:53 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:08:31 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 118ms
+
+ActionView::Template::Error (cannot load such file -- less
+  (in /Users/bonbonez/proj/ror/wood/app/assets/stylesheets/all.less)):
+    2: <html>
+    3: <head>
+    4:   <title>Wood</title>
+    5:   <%= stylesheet_link_tag    "all" %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___1005450734838079848_70179225581340'
+  app/controllers/index_controller.rb:4:in `index'
+
+
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.8ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (3.5ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (22.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:10:07 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 11ms
+
+ActionView::Template::Error (cannot load such file -- less
+  (in /Users/bonbonez/proj/ror/wood/app/assets/stylesheets/all.less)):
+    2: <html>
+    3: <head>
+    4:   <title>Wood</title>
+    5:   <%= stylesheet_link_tag    "all" %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___1005450734838079848_70179225581340'
+  app/controllers/index_controller.rb:4:in `index'
+
+
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (91.5ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.8ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (102.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:10:19 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 6ms
+
+ActionView::Template::Error (cannot load such file -- less
+  (in /Users/bonbonez/proj/ror/wood/app/assets/stylesheets/all.less)):
+    2: <html>
+    3: <head>
+    4:   <title>Wood</title>
+    5:   <%= stylesheet_link_tag    "all" %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___1005450734838079848_70179225581340'
+  app/controllers/index_controller.rb:4:in `index'
+
+
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (7.9ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.8ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (16.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:10:28 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 19ms (Views: 18.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/all.less.css" for 127.0.0.1 at 2014-05-25 12:10:28 +0400
+
+ActionController::RoutingError (No route matches [GET] "/stylesheets/all.less.css"):
+  actionpack (4.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.2) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.2) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.2) lib/rails/engine.rb:511:in `call'
+  railties (4.0.2) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.7ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (9.8ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (32.1ms)
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:28 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:28 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:28 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:28 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:28 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:10:30 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 17ms (Views: 9.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/all.less.css" for 127.0.0.1 at 2014-05-25 12:10:30 +0400
+
+ActionController::RoutingError (No route matches [GET] "/stylesheets/all.less.css"):
+  actionpack (4.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.2) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.2) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.2) lib/rails/engine.rb:511:in `call'
+  railties (4.0.2) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.6ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (13.1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:30 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:30 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:30 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:30 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:30 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:10:40 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 19ms (Views: 17.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/all.less.css" for 127.0.0.1 at 2014-05-25 12:10:40 +0400
+
+ActionController::RoutingError (No route matches [GET] "/stylesheets/all.less.css"):
+  actionpack (4.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.2) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.2) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.2) lib/rails/engine.rb:511:in `call'
+  railties (4.0.2) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.8ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.6ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (0.8ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (12.3ms)
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:40 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:40 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:40 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:40 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:40 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:10:42 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 11ms (Views: 10.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/all.less.css" for 127.0.0.1 at 2014-05-25 12:10:42 +0400
+
+ActionController::RoutingError (No route matches [GET] "/stylesheets/all.less.css"):
+  actionpack (4.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.2) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.2) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.2) lib/rails/engine.rb:511:in `call'
+  railties (4.0.2) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.6ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (0.9ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (13.4ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:42 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:42 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:42 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:42 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:42 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:10:55 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 10ms (Views: 9.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/all.less.css" for 127.0.0.1 at 2014-05-25 12:10:55 +0400
+
+ActionController::RoutingError (No route matches [GET] "/stylesheets/all.less.css"):
+  actionpack (4.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.2) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.2) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.2) lib/rails/engine.rb:511:in `call'
+  railties (4.0.2) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (15.4ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:55 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:55 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:55 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:55 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:55 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:10:56 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 10ms (Views: 8.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/all.less.css" for 127.0.0.1 at 2014-05-25 12:10:56 +0400
+
+ActionController::RoutingError (No route matches [GET] "/stylesheets/all.less.css"):
+  actionpack (4.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.2) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.2) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.2) lib/rails/engine.rb:511:in `call'
+  railties (4.0.2) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.8ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.5ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (0.9ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (12.2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:56 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:56 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:56 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:56 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:56 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:10:56 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 17ms (Views: 16.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/all.less.css" for 127.0.0.1 at 2014-05-25 12:10:56 +0400
+
+ActionController::RoutingError (No route matches [GET] "/stylesheets/all.less.css"):
+  actionpack (4.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.2) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.2) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.2) lib/rails/engine.rb:511:in `call'
+  railties (4.0.2) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (24.8ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.6ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (0.9ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (36.4ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:57 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:57 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:57 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:57 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:10:57 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:13:37 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 99ms (Views: 76.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:13:37 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:13:37 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:13:37 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:13:37 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:13:37 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:13:37 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:13:38 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:13:38 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:13:38 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:13:38 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:13:38 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:13:38 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:13:38 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:13:53 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 15ms (Views: 14.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:13:53 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:13:53 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:13:53 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:13:53 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:13:53 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:13:53 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:20:22 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 26ms
+
+ActionView::Template::Error ('lesshat/lesshat_prefixed.less' wasn't found
+  (in /Users/bonbonez/proj/ror/wood/app/assets/stylesheets/all.less)):
+    2: <html>
+    3: <head>
+    4:   <title>Wood</title>
+    5:   <%= stylesheet_link_tag    "all" %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__352143437789718349_70341398239360'
+  app/controllers/index_controller.rb:4:in `index'
+
+
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.8ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:20:49 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 19ms
+
+ActionView::Template::Error ('lesshat/lesshat_prefixed.less' wasn't found
+  (in /Users/bonbonez/proj/ror/wood/app/assets/stylesheets/all.less)):
+    2: <html>
+    3: <head>
+    4:   <title>Wood</title>
+    5:   <%= stylesheet_link_tag    "all" %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__352143437789718349_70341398239360'
+  app/controllers/index_controller.rb:4:in `index'
+
+
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (22.0ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.8ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (30.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:20:59 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (1.4ms)
+Completed 500 Internal Server Error in 78ms
+
+ActionView::Template::Error ('lesshat/lesshat_prefixed.less' wasn't found
+  (in /Users/bonbonez/proj/ror/wood/app/assets/stylesheets/all.less)):
+    2: <html>
+    3: <head>
+    4:   <title>Wood</title>
+    5:   <%= stylesheet_link_tag    "all" %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__1591486281869509807_70143516260320'
+  app/controllers/index_controller.rb:4:in `index'
+
+
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.7ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (8.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:21:00 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 25ms
+
+ActionView::Template::Error ('lesshat/lesshat_prefixed.less' wasn't found
+  (in /Users/bonbonez/proj/ror/wood/app/assets/stylesheets/all.less)):
+    2: <html>
+    3: <head>
+    4:   <title>Wood</title>
+    5:   <%= stylesheet_link_tag    "all" %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__1591486281869509807_70143516260320'
+  app/controllers/index_controller.rb:4:in `index'
+
+
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.8ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:21:14 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 63ms (Views: 62.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:21:14 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:14 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:14 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:14 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:14 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:14 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:21:15 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:21:15 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:15 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:15 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:15 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:15 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:15 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:21:18 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 19ms
+
+ActionView::Template::Error ('lesshat/lesshat_prefixed.less' wasn't found
+  (in /Users/bonbonez/proj/ror/wood/app/assets/stylesheets/all.less)):
+    2: <html>
+    3: <head>
+    4:   <title>Wood</title>
+    5:   <%= stylesheet_link_tag    "all" %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__1591486281869509807_70143516260320'
+  app/controllers/index_controller.rb:4:in `index'
+
+
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (22.7ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.8ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (31.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:21:23 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 34ms (Views: 33.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:21:23 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:23 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:23 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:23 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:23 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:23 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:21:27 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:21:27 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:27 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:27 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:27 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:27 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:27 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:21:28 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:21:28 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:28 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:28 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:28 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:28 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:28 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:21:28 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:21:28 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:28 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:28 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:28 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:28 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:28 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:21:35 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 65ms (Views: 42.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:21:36 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:36 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:36 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:36 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:36 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:36 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:21:47 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:21:47 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:47 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:47 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:47 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:47 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:47 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:21:50 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:21:50 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:50 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:50 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:50 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:50 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:21:50 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:22:39 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 67ms (Views: 66.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:22:39 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:22:39 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:22:39 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:22:39 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:22:39 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:22:39 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:22:39 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:23:15 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 36ms (Views: 35.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:23:15 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:23:15 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:23:15 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:23:15 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:23:15 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:23:15 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:23:15 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:23:18 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 60ms
+
+ActionView::Template::Error ('layout/header.lesss' wasn't found
+  (in /Users/bonbonez/proj/ror/wood/app/assets/stylesheets/all.less)):
+    2: <html>
+    3: <head>
+    4:   <title>Wood</title>
+    5:   <%= stylesheet_link_tag    "all" %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___4550501850845413610_70293603664220'
+  app/controllers/index_controller.rb:4:in `index'
+
+
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.8ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:23:25 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:23:25 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:23:25 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:23:25 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:23:25 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:23:25 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:23:25 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:23:25 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:24:55 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 68ms (Views: 67.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:24:55 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:24:55 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:24:55 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:24:55 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:24:55 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:24:55 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:24:55 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:32:13 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:32:13 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:32:13 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:32:13 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:32:13 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:32:13 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:32:13 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:32:13 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:32:36 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 88ms
+
+ActionView::Template::Error ('gs-config.less' wasn't found
+  (in /Users/bonbonez/proj/ror/wood/app/assets/stylesheets/all.less)):
+    2: <html>
+    3: <head>
+    4:   <title>Wood</title>
+    5:   <%= stylesheet_link_tag    "all" %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___4550501850845413610_70293603910620'
+  app/controllers/index_controller.rb:4:in `index'
+
+
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.8ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:32:47 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 165ms (Views: 143.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:32:47 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:32:47 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:32:47 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:32:47 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:32:47 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:32:47 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:32:47 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:32:55 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:32:56 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:32:56 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:32:56 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:32:56 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:32:56 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:32:56 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:32:56 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:36:09 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:36:09 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:36:09 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:36:09 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:36:09 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:36:09 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:36:09 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:36:09 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:38:07 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 83ms (Views: 82.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:38:07 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:07 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:07 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:07 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:07 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:07 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:38:07 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:38:18 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:38:18 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:18 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:18 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:18 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:18 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:18 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:38:18 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:38:29 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 62ms (Views: 40.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:29 +0400
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:38:29 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:29 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:29 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:29 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:29 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:38:29 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:38:53 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:38:53 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:53 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:53 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:53 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:53 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:53 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:38:53 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:38:54 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:38:54 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:54 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:54 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:54 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:54 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:54 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:38:54 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:38:55 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:38:55 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:55 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:55 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:55 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:55 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:38:55 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:38:55 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:39:05 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 44ms (Views: 22.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:39:05 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:39:05 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:39:05 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:39:05 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:39:05 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:39:05 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:39:05 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:39:30 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:39:30 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:39:30 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:39:30 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:39:30 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:39:30 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:39:30 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:39:30 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:39:30 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:39:30 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:39:30 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:39:30 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:39:30 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:39:30 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:39:30 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:39:31 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:39:43 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:39:43 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:39:43 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:39:43 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:39:43 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:39:43 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:39:43 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:39:43 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:40:04 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:40:05 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:05 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:05 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:05 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:05 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:05 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:40:05 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:40:06 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:40:06 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:06 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:06 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:06 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:06 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:06 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:40:06 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:40:06 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:40:06 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:06 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:06 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:06 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:06 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:06 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:40:06 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:40:07 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:40:07 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:07 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:07 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:07 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:07 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:07 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:40:07 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:40:07 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:40:07 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:07 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:07 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:07 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:07 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:07 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:40:07 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:40:11 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:40:12 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:12 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:12 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:12 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:12 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:12 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:40:12 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:40:12 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:40:12 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:12 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:12 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:12 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:12 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:12 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:40:12 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:40:23 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 44ms (Views: 22.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:40:23 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:23 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:23 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:23 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:23 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:23 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:40:24 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:40:36 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:40:36 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:36 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:36 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:36 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:36 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:36 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:40:36 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:40:37 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:40:37 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:37 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:37 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:37 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:37 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:40:37 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:40:37 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:41:05 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:41:05 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:41:05 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:41:05 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:41:05 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:41:05 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:41:05 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:41:05 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:41:07 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:41:07 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:41:07 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:41:07 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:41:07 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:41:07 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:41:07 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:41:07 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:41:12 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 106ms (Views: 105.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:41:12 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:41:12 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:41:12 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:41:12 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:41:12 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:41:12 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:41:12 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:41:27 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 108ms (Views: 107.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:41:27 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:41:27 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:41:27 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:41:27 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:41:27 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:41:27 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:41:27 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:41:40 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:41:40 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:41:40 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:41:40 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:41:40 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:41:40 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:41:40 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:41:40 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:51:10 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:51:10 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:51:10 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:51:10 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:51:10 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:51:10 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:51:10 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:51:10 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:51:52 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 271ms (Views: 249.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:51:53 +0400
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:51:53 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:51:53 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:51:53 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:51:53 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:51:53 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:51:53 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:52:04 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:52:04 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:52:04 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:52:04 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:52:04 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:52:04 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:52:04 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:52:04 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:52:06 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:52:06 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:52:06 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:52:06 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:52:06 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:52:06 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:52:06 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:52:06 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:52:09 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:52:09 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:52:09 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:52:10 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:52:10 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:52:10 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:52:10 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:52:10 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:53:19 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 114ms (Views: 113.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:53:20 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:53:20 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:53:20 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:53:20 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:53:20 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:53:20 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:53:20 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:53:26 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:53:26 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:53:26 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:53:26 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:53:26 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:53:26 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:53:26 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:53:26 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:53:27 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:53:27 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:53:27 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:53:27 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:53:27 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:53:27 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:53:27 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:53:27 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:53:28 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:53:28 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:53:28 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:53:28 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:53:28 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:53:28 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:53:28 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:53:28 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:53:46 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:53:46 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:53:46 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:53:46 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:53:46 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:53:46 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:53:46 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:53:46 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:54:28 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 75ms (Views: 74.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:54:28 +0400
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:54:28 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:54:28 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:54:28 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:54:28 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:54:28 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:54:28 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:54:32 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:54:32 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:54:32 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:54:32 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:54:32 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:54:32 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:54:32 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:54:32 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:55:21 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 73ms (Views: 72.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:55:21 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:55:21 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:55:21 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:55:21 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:55:21 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:55:21 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:55:21 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:55:26 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:55:26 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:55:26 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:55:26 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:55:26 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:55:26 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:55:26 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:55:26 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:55:26 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:55:26 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:55:26 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:55:26 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:55:26 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:55:26 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:55:26 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:55:26 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:55:27 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:55:27 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:55:27 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:55:27 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:55:27 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:55:27 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:55:27 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:55:27 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:55:27 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:55:27 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:55:27 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:55:27 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:55:27 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:55:27 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:55:27 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:55:27 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:56:31 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:56:31 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:56:31 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:56:31 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:56:31 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:56:31 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:56:31 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:56:31 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:57:08 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:57:08 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:57:08 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:57:08 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:57:08 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:57:08 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:57:08 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:57:08 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:58:35 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 84ms (Views: 83.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:58:35 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:58:35 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:58:35 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:58:35 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:58:35 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:58:35 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:58:35 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:58:41 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:58:41 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:58:41 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:58:41 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:58:41 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:58:41 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:58:41 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:58:41 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:58:42 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:58:42 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:58:42 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:58:42 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:58:42 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:58:42 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:58:42 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:58:42 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:58:49 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 12:58:49 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 12:58:49 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 12:58:49 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 12:58:49 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 12:58:49 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 12:58:49 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 12:58:49 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:59:42 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 99ms
+
+ActionView::Template::Error ('common.less' wasn't found
+  (in /Users/bonbonez/proj/ror/wood/app/assets/stylesheets/all.less)):
+    2: <html>
+    3: <head>
+    4:   <title>Wood</title>
+    5:   <%= stylesheet_link_tag    "all" %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___4469112545325883891_70303485685940'
+  app/controllers/index_controller.rb:4:in `index'
+
+
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.7ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 12:59:48 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 94ms
+
+ActionView::Template::Error ('common.less' wasn't found
+  (in /Users/bonbonez/proj/ror/wood/app/assets/stylesheets/all.less)):
+    2: <html>
+    3: <head>
+    4:   <title>Wood</title>
+    5:   <%= stylesheet_link_tag    "all" %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___4469112545325883891_70303485685940'
+  app/controllers/index_controller.rb:4:in `index'
+
+
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.8ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 13:00:09 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 84ms (Views: 83.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 13:00:09 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:09 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:09 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:09 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:09 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:09 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 13:00:09 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 13:00:17 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 13:00:17 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:17 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:17 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:17 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:17 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:17 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 13:00:17 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 13:00:18 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 13:00:18 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:18 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:18 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:18 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:18 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:18 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 13:00:18 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 13:00:27 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 232ms (Views: 210.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 13:00:28 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:28 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:28 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:28 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:28 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:28 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 13:00:28 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 13:00:28 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 13:00:28 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:28 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:28 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:28 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:28 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:28 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 13:00:28 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 13:00:54 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 13:00:54 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:54 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:54 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:54 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:54 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 13:00:54 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 13:00:54 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 13:04:02 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 13:04:02 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 13:04:02 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 13:04:02 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 13:04:02 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 13:04:02 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 13:04:02 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 13:04:02 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 13:04:07 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 13:04:07 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 13:04:07 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 13:04:07 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 13:04:07 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 13:04:07 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 13:04:07 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 13:04:07 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 13:05:10 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 13:05:10 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:10 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:10 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:10 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:10 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:10 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 13:05:10 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 13:05:19 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 97ms (Views: 96.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 13:05:19 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:19 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:19 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:19 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:19 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:19 +0400
+
+
+Started GET "/assets/less/layout.css" for 127.0.0.1 at 2014-05-25 13:05:19 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 13:05:22 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 13:05:22 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:22 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:22 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:22 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:22 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:22 +0400
+
+
+Started GET "/assets/less/layout.css" for 127.0.0.1 at 2014-05-25 13:05:22 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 13:05:25 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 93ms (Views: 92.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 13:05:25 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:25 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:25 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:25 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:25 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:25 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 13:05:26 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 13:05:31 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 13:05:31 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:31 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:31 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:31 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:31 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:31 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 13:05:31 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 13:05:32 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 13:05:32 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:32 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:32 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:32 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:32 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:32 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 13:05:32 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 13:05:32 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 13:05:32 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:32 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:32 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:32 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:32 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:32 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 13:05:32 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 13:05:32 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 13:05:33 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:33 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:33 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:33 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:33 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 13:05:33 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 13:05:33 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 13:09:09 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 13:09:09 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:09 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:09 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:09 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:09 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:09 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 13:09:09 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 13:09:35 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 353ms (Views: 331.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 13:09:35 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:35 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:35 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:35 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:35 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:35 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 13:09:35 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 13:09:41 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 13:09:41 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:41 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:41 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:41 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:41 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:41 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 13:09:41 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 13:09:42 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 13:09:42 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:42 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:42 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:42 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:42 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:42 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 13:09:42 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 13:09:42 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 13:09:42 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:42 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:42 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:42 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:42 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:42 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 13:09:42 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 13:09:43 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-25 13:09:43 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:43 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:43 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:43 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:43 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 13:09:43 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-25 13:09:43 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 00:38:26 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 104ms (Views: 82.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 00:38:26 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 00:38:26 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 00:38:26 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 00:38:26 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 00:38:26 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 00:38:26 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 00:38:26 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 00:43:17 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 00:43:17 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 00:43:17 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 00:43:17 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 00:43:17 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 00:43:17 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 00:43:17 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 00:43:18 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 00:44:02 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 00:44:02 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:02 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:02 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:02 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:02 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:02 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 00:44:02 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 00:44:10 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 113ms
+
+ActionView::Template::Error ('lessz/layout.css.less' wasn't found
+  (in /Users/bonbonez/proj/ror/wood/app/assets/stylesheets/all.less)):
+    2: <html>
+    3: <head>
+    4:   <title>Wood</title>
+    5:   <%= stylesheet_link_tag    "all" %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__4148987440880967048_70273097451880'
+  app/controllers/index_controller.rb:4:in `index'
+
+
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (20.7ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.8ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (31.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 00:44:12 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 00:44:12 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:12 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:12 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:12 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:12 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:12 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 00:44:13 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 00:44:14 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 00:44:14 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:14 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:14 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:14 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:14 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:14 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 00:44:14 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 00:44:19 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 81ms (Views: 80.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 00:44:19 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:19 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:19 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:19 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:19 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:19 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 00:44:19 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 00:44:23 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 83ms (Views: 81.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 00:44:23 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:23 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:23 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:23 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:23 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:23 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 00:44:23 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 00:44:28 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 00:44:28 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:28 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:28 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:28 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:28 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:28 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 00:44:28 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 00:44:31 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 142ms (Views: 141.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 00:44:32 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:32 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:32 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:32 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:32 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:32 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 00:44:32 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 00:44:38 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 00:44:38 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:38 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:38 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:38 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:38 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 00:44:38 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 00:44:38 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 00:46:12 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 76ms (Views: 75.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 00:46:12 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 00:46:12 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 00:46:12 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 00:46:12 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 00:46:12 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 00:46:12 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 00:46:12 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 00:46:18 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 00:46:18 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 00:46:18 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 00:46:18 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 00:46:18 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 00:46:18 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 00:46:18 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 00:46:19 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 00:46:25 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 82ms (Views: 81.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 00:46:25 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 00:46:25 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 00:46:25 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 00:46:25 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 00:46:25 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 00:46:25 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 00:46:25 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 00:46:28 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 00:46:28 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 00:46:28 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 00:46:28 +0400
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 00:46:28 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 00:46:28 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 00:46:28 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 00:46:28 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 01:30:38 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (2.2ms)
+Completed 500 Internal Server Error in 70ms
+
+ActionView::Template::Error (File to import not found or unreadable: lesshat/lesshat-prefixed.
+Load paths:
+  /Users/bonbonez/proj/ror/wood/app/assets/images
+  /Users/bonbonez/proj/ror/wood/app/assets/javascripts
+  /Users/bonbonez/proj/ror/wood/app/assets/stylesheets
+  /Users/bonbonez/proj/ror/wood/vendor/assets/javascripts
+  /Users/bonbonez/proj/ror/wood/vendor/assets/stylesheets
+  /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/turbolinks-2.2.2/lib/assets/javascripts
+  /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/jquery-rails-3.1.0/vendor/assets/javascripts
+  /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/coffee-rails-4.0.1/lib/assets/javascripts
+  (in /Users/bonbonez/proj/ror/wood/app/assets/stylesheets/all.css.scss:5)):
+    2: <html>
+    3: <head>
+    4:   <title>Wood</title>
+    5:   <%= stylesheet_link_tag    "all" %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/all.css.scss:5
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__2362032669973201880_70297046980080'
+  app/controllers/index_controller.rb:4:in `index'
+
+
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.9ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 01:33:03 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 68ms
+
+ActionView::Template::Error (File to import not found or unreadable: less/common.
+Load paths:
+  /Users/bonbonez/proj/ror/wood/app/assets/images
+  /Users/bonbonez/proj/ror/wood/app/assets/javascripts
+  /Users/bonbonez/proj/ror/wood/app/assets/stylesheets
+  /Users/bonbonez/proj/ror/wood/vendor/assets/javascripts
+  /Users/bonbonez/proj/ror/wood/vendor/assets/stylesheets
+  /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/turbolinks-2.2.2/lib/assets/javascripts
+  /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/jquery-rails-3.1.0/vendor/assets/javascripts
+  /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/coffee-rails-4.0.1/lib/assets/javascripts
+  (in /Users/bonbonez/proj/ror/wood/app/assets/stylesheets/all.css.scss:11)):
+    2: <html>
+    3: <head>
+    4:   <title>Wood</title>
+    5:   <%= stylesheet_link_tag    "all" %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/all.css.scss:11
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__2362032669973201880_70297046980080'
+  app/controllers/index_controller.rb:4:in `index'
+
+
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.7ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 01:33:30 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 75ms (Views: 74.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 01:33:30 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 01:33:30 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 01:33:30 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 01:33:30 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 01:33:30 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 01:33:30 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 01:33:30 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 01:33:39 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 39ms (Views: 38.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 01:33:39 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 01:33:39 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 01:33:39 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 01:33:39 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 01:33:39 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 01:33:39 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 01:33:39 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 01:36:23 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (19.7ms)
+Completed 200 OK in 1082ms (Views: 1061.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 01:36:25 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 01:36:25 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 01:36:25 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 01:36:25 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 01:36:25 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 01:36:25 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 01:36:25 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 01:36:31 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 777ms (Views: 776.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 01:36:32 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 01:36:32 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 01:36:32 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 01:36:32 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 01:36:32 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 01:36:32 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 01:36:32 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 01:36:45 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 783ms (Views: 782.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 01:36:46 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 01:36:46 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 01:36:46 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 01:36:46 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 01:36:46 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 01:36:46 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 01:36:46 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 01:38:15 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 748ms (Views: 747.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 01:38:16 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 01:38:16 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 01:38:16 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 01:38:16 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 01:38:16 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 01:38:16 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 01:38:16 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 01:43:35 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+  Rendered layout/_header.html.erb (0.3ms)
+Completed 200 OK in 792ms (Views: 791.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 01:43:36 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 01:43:36 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 01:43:36 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 01:43:36 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 01:43:36 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 01:43:36 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 01:43:36 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 01:46:20 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+  Rendered layout/_header.html.erb (0.0ms)
+Completed 200 OK in 757ms (Views: 756.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 01:46:21 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 01:46:21 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 01:46:21 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 01:46:21 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 01:46:21 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 01:46:21 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 01:46:21 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 01:47:07 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+  Rendered layout/_header.html.erb (0.0ms)
+Completed 200 OK in 735ms (Views: 734.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 01:47:08 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:08 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:08 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:08 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:08 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:08 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 01:47:08 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 01:47:19 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+  Rendered layout/_header.html.erb (0.0ms)
+Completed 200 OK in 772ms (Views: 771.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 01:47:20 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:20 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:20 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:20 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:20 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:20 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 01:47:20 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 01:47:26 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+  Rendered layout/_header.html.erb (0.1ms)
+Completed 200 OK in 728ms (Views: 727.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:27 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:27 +0400
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 01:47:27 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:27 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:27 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:27 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 01:47:27 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 01:47:31 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+  Rendered layout/_header.html.erb (0.0ms)
+Completed 200 OK in 734ms (Views: 733.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 01:47:32 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:32 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:32 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:32 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:32 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:32 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 01:47:32 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 01:47:41 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+  Rendered layout/_header.html.erb (0.0ms)
+Completed 200 OK in 759ms (Views: 758.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 01:47:42 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:42 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:42 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:42 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:42 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:42 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 01:47:42 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 01:47:47 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+  Rendered layout/_header.html.erb (0.1ms)
+Completed 200 OK in 746ms (Views: 745.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 01:47:48 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:48 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:48 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:48 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:48 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:48 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 01:47:48 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 01:47:53 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+  Rendered layout/_header.html.erb (0.1ms)
+Completed 200 OK in 749ms (Views: 748.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:54 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:54 +0400
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 01:47:54 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:54 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:54 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:54 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 01:47:54 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 01:47:58 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+  Rendered layout/_header.html.erb (0.1ms)
+Completed 200 OK in 759ms (Views: 758.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 01:47:59 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:59 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:59 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:59 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:59 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 01:47:59 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 01:47:59 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 02:02:50 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 751ms
+
+ActionView::Template::Error (Invalid CSS after "    &": expected "{", was "-haha {"
+
+"-haha" may only be used at the beginning of a compound selector.
+  (in /Users/bonbonez/proj/ror/wood/app/assets/stylesheets/all.css.scss:8)):
+    2: <html>
+    3: <head>
+    4:   <title>Wood</title>
+    5:   <%= stylesheet_link_tag    "all" %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/layout/header.css.scss:8
+  app/assets/stylesheets/all.css.scss:17
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___2967134463502316682_70131658195380'
+  app/controllers/index_controller.rb:4:in `index'
+
+
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.7ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 02:06:11 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+  Rendered layout/_header.html.erb (0.1ms)
+Completed 200 OK in 758ms (Views: 757.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 02:06:12 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 02:06:12 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 02:06:12 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 02:06:12 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 02:06:12 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 02:06:12 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 02:06:12 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 02:07:56 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 722ms
+
+ActionView::Template::Error (Invalid CSS after "    #{": expected expression (e.g. 1px, bold), was "&}__haha {"
+  (in /Users/bonbonez/proj/ror/wood/app/assets/stylesheets/all.css.scss:8)):
+    2: <html>
+    3: <head>
+    4:   <title>Wood</title>
+    5:   <%= stylesheet_link_tag    "all" %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/layout/header.css.scss:8
+  app/assets/stylesheets/all.css.scss:17
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___2967134463502316682_70131658195380'
+  app/controllers/index_controller.rb:4:in `index'
+
+
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.7ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 02:08:05 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 712ms
+
+ActionView::Template::Error (Invalid CSS after "    {&": expected "{", was "}__haha {"
+  (in /Users/bonbonez/proj/ror/wood/app/assets/stylesheets/all.css.scss:8)):
+    2: <html>
+    3: <head>
+    4:   <title>Wood</title>
+    5:   <%= stylesheet_link_tag    "all" %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/layout/header.css.scss:8
+  app/assets/stylesheets/all.css.scss:17
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___2967134463502316682_70131658195380'
+  app/controllers/index_controller.rb:4:in `index'
+
+
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.8ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 02:12:30 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (1.4ms)
+  Rendered layout/_header.html.erb (0.2ms)
+Completed 200 OK in 889ms (Views: 867.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 02:12:31 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 02:12:31 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 02:12:31 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 02:12:31 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 02:12:31 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 02:12:31 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 02:12:31 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 02:12:37 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+  Rendered layout/_header.html.erb (0.0ms)
+Completed 200 OK in 4ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 02:12:37 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 02:12:37 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 02:12:37 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 02:12:37 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 02:12:37 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 02:12:37 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 02:12:37 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 02:12:57 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+  Rendered layout/_header.html.erb (0.0ms)
+Completed 200 OK in 802ms (Views: 801.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 02:12:57 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 02:12:57 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 02:12:57 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 02:12:57 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 02:12:57 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 02:12:57 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 02:12:57 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 02:12:59 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+  Rendered layout/_header.html.erb (0.0ms)
+Completed 200 OK in 4ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 02:12:59 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 02:12:59 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 02:12:59 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 02:12:59 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 02:12:59 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 02:12:59 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 02:12:59 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 02:13:08 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+  Rendered layout/_header.html.erb (0.0ms)
+Completed 200 OK in 814ms (Views: 813.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 02:13:09 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 02:13:09 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 02:13:09 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 02:13:09 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 02:13:09 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 02:13:09 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 02:13:09 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 02:13:14 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+  Rendered layout/_header.html.erb (0.1ms)
+Completed 200 OK in 845ms (Views: 844.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 02:13:15 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 02:13:15 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 02:13:15 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 02:13:15 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 02:13:15 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 02:13:15 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 02:13:15 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 02:13:22 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+  Rendered layout/_header.html.erb (0.0ms)
+Completed 200 OK in 825ms (Views: 825.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 02:13:23 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 02:13:23 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 02:13:23 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 02:13:23 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 02:13:23 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 02:13:23 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 02:13:23 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 02:18:06 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 810ms
+
+ActionView::Template::Error (Undefined mixin 'vertical-align-middle'.
+  (in /Users/bonbonez/proj/ror/wood/app/assets/stylesheets/all.css.scss:11)):
+    2: <html>
+    3: <head>
+    4:   <title>Wood</title>
+    5:   <%= stylesheet_link_tag    "all" %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/layout/header.css.scss:11:in `vertical-align-middle'
+  app/assets/stylesheets/layout/header.css.scss:11
+  app/assets/stylesheets/all.css.scss:17
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__3649712140053705281_70135335068220'
+  app/controllers/index_controller.rb:4:in `index'
+
+
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.7ms)
+  Rendered /Users/bonbonez/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (8.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 02:18:31 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.1ms)
+  Rendered layout/_header.html.erb (0.3ms)
+Completed 200 OK in 819ms (Views: 818.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 02:18:32 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 02:18:32 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 02:18:32 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 02:18:32 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 02:18:32 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 02:18:32 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 02:18:32 +0400
+
+
+Started GET "/assets/museo/museosanscyrl-500-webfont.eot" for 127.0.0.1 at 2014-05-28 02:18:32 +0400
+
+
+Started GET "/assets/museo/museosanscyrl-500-webfont.svg" for 127.0.0.1 at 2014-05-28 02:18:32 +0400
+
+
+Started GET "/assets/museo/museosanscyrl-500-webfont.woff" for 127.0.0.1 at 2014-05-28 02:18:32 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 02:19:27 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+  Rendered layout/_header.html.erb (0.0ms)
+Completed 200 OK in 837ms (Views: 836.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 02:19:28 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 02:19:28 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 02:19:28 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 02:19:28 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 02:19:28 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 02:19:28 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 02:19:28 +0400
+
+
+Started GET "/assets/museo/museosanscyrl-500-webfont.eot" for 127.0.0.1 at 2014-05-28 02:19:28 +0400
+
+
+Started GET "/assets/museo/museosanscyrl-500-webfont.svg" for 127.0.0.1 at 2014-05-28 02:19:28 +0400
+
+
+Started GET "/assets/museo/museosanscyrl-500-webfont.woff" for 127.0.0.1 at 2014-05-28 02:19:28 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 02:19:39 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+  Rendered layout/_header.html.erb (0.0ms)
+Completed 200 OK in 821ms (Views: 820.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 02:19:40 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 02:19:40 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 02:19:40 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 02:19:40 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 02:19:40 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 02:19:40 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 02:19:40 +0400
+
+
+Started GET "/assets/museo/museosanscyrl-500-webfont.eot" for 127.0.0.1 at 2014-05-28 02:19:40 +0400
+
+
+Started GET "/assets/museo/museosanscyrl-500-webfont.svg" for 127.0.0.1 at 2014-05-28 02:19:40 +0400
+
+
+Started GET "/assets/museo/museosanscyrl-500-webfont.woff" for 127.0.0.1 at 2014-05-28 02:19:40 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-28 12:21:26 +0400
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (1.2ms)
+  Rendered layout/_header.html.erb (0.3ms)
+Completed 200 OK in 78ms (Views: 62.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/all.css?body=1" for 127.0.0.1 at 2014-05-28 12:21:27 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-28 12:21:27 +0400
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2014-05-28 12:21:27 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-28 12:21:27 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-28 12:21:27 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-28 12:21:27 +0400
+
+
+Started GET "/assets/bg-wood.png" for 127.0.0.1 at 2014-05-28 12:21:27 +0400
+
+
+Started GET "/assets/museo/museosanscyrl-500-webfont.eot" for 127.0.0.1 at 2014-05-28 12:21:27 +0400
+
+
+Started GET "/assets/museo/museosanscyrl-500-webfont.svg" for 127.0.0.1 at 2014-05-28 12:21:27 +0400
+
+
+Started GET "/assets/museo/museosanscyrl-500-webfont.woff" for 127.0.0.1 at 2014-05-28 12:21:27 +0400

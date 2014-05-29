@@ -1,0 +1,35 @@
+$font-museo-name:             "MuseoSansCyrl300";
+$font-museo-file:             "museo/museosanscyrl-300-webfont";
+
+$font-museo-bold-name:          "MuseoSansCyrl500";
+$font-museo-bold-file:          "museo/museosanscyrl-500-webfont";
+
+
+/**
+ * Миксин правильной загрузки скрипта. SVG должен идти в конце, как более приоритетная версия шрифта
+ */
+@mixin createFontFace( $fontName, $fontPath ) {
+    @font-face {
+        font-family: $fontName;
+        font-style: normal;
+        font-weight: normal;
+        src: url($fontPath + '.eot?'),
+        url($fontPath + '.woff') format('woff'),
+        url($fontPath + '.ttf') format('truetype'),
+        url($fontPath + '.svg#' + $fontName) format('svg');
+    }
+
+    @media screen and (-webkit-min-device-pixel-ratio:0) {
+        @font-face {
+            font-family: $fontName;
+            src: url($fontPath + '.svg') format('svg');
+        }
+    }
+}
+
+@include createFontFace( $font-museo-name,            $font-museo-file );
+@include createFontFace( $font-museo-bold-name,         $font-museo-bold-file );
+
+
+$font-museo:            "MuseoSansCyrl300";
+$font-museo-bold:       "MuseoSansCyrl500";
