@@ -1,7 +1,9 @@
+# encoding: utf-8
+
 class IndexController < ApplicationController
 
-    def index
-        render 'index/index'
-    end
+  def index
+
+  end
 
 end

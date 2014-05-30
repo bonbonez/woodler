@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Wood::Application.load_tasks
+Woodler::Application.load_tasks

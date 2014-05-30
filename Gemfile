@@ -3,18 +3,20 @@ source 'https://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.2'
 
-# Use sqlite3 as the database for Active Record
-gem 'sqlite3'
+# Use mysql as the database for Active Record
+gem 'mysql2'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 gem 'compass-rails'
 
+gem 'slim'
+
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 
 # Use CoffeeScript for .js.coffee assets and views
-gem 'coffee-rails', '~> 4.0.0'
+# gem 'coffee-rails', '~> 4.0.0'
 
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
@@ -33,10 +35,6 @@ group :doc do
   gem 'sdoc', require: false
 end
 
-#gem 'therubyracer', '0.12.1' # Ruby
-#gem 'therubyrhino', '2.0.3' # JRuby
-#gem 'less-rails', '~> 2.5.0'
-
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
@@ -47,4 +45,13 @@ end
 # gem 'capistrano', group: :development
 
 # Use debugger
-# gem 'debugger', group: [:development, :test]
+gem 'debugger', group: [:development, :test]
+
+# Paperclip
+gem "paperclip", "~> 4.1"
+
+# Rails admin
+gem 'rails_admin', '~> 0.6.2'
+
+# Devise
+gem 'devise'

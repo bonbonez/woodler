@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Wood::Application.config.secret_key_base = 'ba6e0dd8d874264f01d373a82f5d2b886d0c06ccd3a3a4eadd6e732adf4441f45de980b6682e36b128c6a2fb632b60825f1098adda88357f50e2af9b4aa8e887'
+Woodler::Application.config.secret_key_base = 'fbf7e0fc70a1f3e1791139fdbe10b66caa43b19e221492ce460b38dea070a88ded3e10ec729b2139bcc591558b2673ee41a36fbc4b5d84f72437797631ee8623'
